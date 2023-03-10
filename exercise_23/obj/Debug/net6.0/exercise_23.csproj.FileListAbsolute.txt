@@ -1,0 +1,15 @@
+C:\Users\thijs\Downloads\Documenten\Roc\C#\exercise_23\exercise_23\bin\Debug\net6.0\exercise_23.exe
+C:\Users\thijs\Downloads\Documenten\Roc\C#\exercise_23\exercise_23\bin\Debug\net6.0\exercise_23.deps.json
+C:\Users\thijs\Downloads\Documenten\Roc\C#\exercise_23\exercise_23\bin\Debug\net6.0\exercise_23.runtimeconfig.json
+C:\Users\thijs\Downloads\Documenten\Roc\C#\exercise_23\exercise_23\bin\Debug\net6.0\exercise_23.dll
+C:\Users\thijs\Downloads\Documenten\Roc\C#\exercise_23\exercise_23\bin\Debug\net6.0\exercise_23.pdb
+C:\Users\thijs\Downloads\Documenten\Roc\C#\exercise_23\exercise_23\obj\Debug\net6.0\exercise_23.csproj.AssemblyReference.cache
+C:\Users\thijs\Downloads\Documenten\Roc\C#\exercise_23\exercise_23\obj\Debug\net6.0\exercise_23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thijs\Downloads\Documenten\Roc\C#\exercise_23\exercise_23\obj\Debug\net6.0\exercise_23.AssemblyInfoInputs.cache
+C:\Users\thijs\Downloads\Documenten\Roc\C#\exercise_23\exercise_23\obj\Debug\net6.0\exercise_23.AssemblyInfo.cs
+C:\Users\thijs\Downloads\Documenten\Roc\C#\exercise_23\exercise_23\obj\Debug\net6.0\exercise_23.csproj.CoreCompileInputs.cache
+C:\Users\thijs\Downloads\Documenten\Roc\C#\exercise_23\exercise_23\obj\Debug\net6.0\exercise_23.dll
+C:\Users\thijs\Downloads\Documenten\Roc\C#\exercise_23\exercise_23\obj\Debug\net6.0\refint\exercise_23.dll
+C:\Users\thijs\Downloads\Documenten\Roc\C#\exercise_23\exercise_23\obj\Debug\net6.0\exercise_23.pdb
+C:\Users\thijs\Downloads\Documenten\Roc\C#\exercise_23\exercise_23\obj\Debug\net6.0\exercise_23.genruntimeconfig.cache
+C:\Users\thijs\Downloads\Documenten\Roc\C#\exercise_23\exercise_23\obj\Debug\net6.0\ref\exercise_23.dll

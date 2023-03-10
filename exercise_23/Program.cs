@@ -8,20 +8,20 @@ namespace exercise_23
     {
         static void Main(string[] args)
         {
-            //tinyCalculator();
-            //evenOrOdd();
-            //echo();
-            //anserToLife();
-            //countingNumbers();
-            //sumOfNum();
-            //amountAndSum();
-            //iteratingToInput();
-            //numAndCal();
-            //printPhrase();
-            //howManyTimes();
-            //printUntilNumber();
-            //printFromNumberToOne();
-            //division();
+            tinyCalculator();
+            evenOrOdd();
+            echo();
+            anserToLife();
+            countingNumbers();
+            sumOfNum();
+            amountAndSum();
+            iteratingToInput();
+            numAndCal();
+            printPhrase();
+            howManyTimes();
+            printUntilNumber();
+            printFromNumberToOne();
+            division();
             divisibleByThreeInRange();
         }
 

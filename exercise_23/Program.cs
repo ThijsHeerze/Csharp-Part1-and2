@@ -8,55 +8,6 @@ namespace exercise_23
     {
         static void Main(string[] args)
         {
-
-            /*bool stop = false;
-            while (!stop)
-            {
-                Console.Clear();
-                Console.WriteLine(" 0. Quit");
-                Console.WriteLine(" 1. Exercise 1.23");
-                Console.WriteLine();
-                Console.WriteLine();
-                Console.WriteLine();
-                Console.WriteLine();
-                Console.WriteLine();
-                Console.WriteLine();
-                Console.WriteLine();
-                Console.WriteLine();
-                Console.WriteLine();
-                Console.WriteLine();
-                Console.WriteLine();
-                Console.WriteLine();
-                Console.WriteLine();
-                Console.WriteLine();
-
-                Console.Write("\nChoose");
-                int choice int Parse.32(Console);
-                try
-                {
-                    switch (choice)
-                    {
-                        case
-
-                        default:
-                            Console.WriteLine("That it not an option, press Enter and try again");
-                            Console.ReadLine();
-                    }
-                }
-                catch (Exception ex) when (ex)
-                {
-
-                }
-            }
-
-            static bool Stop()
-            {
-                Console.Write("\nTry something else? Type 'n' to stop:");
-                string again = Console.ReadLine();
-
-                return again.ToLower() == "n" ? true : false;
-            }*/
-
             //tinyCalculator();
             //evenOrOdd();
             //echo();
@@ -69,6 +20,9 @@ namespace exercise_23
             //printPhrase();
             //howManyTimes();
             //printUntilNumber();
+            //printFromNumberToOne();
+            //division();
+            divisibleByThreeInRange();
         }
 
         //exercise 23
@@ -318,7 +272,7 @@ namespace exercise_23
         }
 
         //exercise 2-12
-        public static void PrintFromNumberToOne()
+        public static void printFromNumberToOne()
         {
             Console.WriteLine("Enter a number");
             int number = int.Parse(Console.ReadLine());
@@ -331,6 +285,33 @@ namespace exercise_23
         }
 
         //exercise 2-13
-        public static void 
+        public static void division()
+        {
+            Console.Write("Give the first number: ");
+            double num1 = int.Parse(Console.ReadLine());
+            Console.Write("Give the second number: ");
+            double num2 = int.Parse(Console.ReadLine());
+
+            double sum3 = num1 / num2;
+            Console.WriteLine(sum3);
+        }
+
+
+        //exercise 2-14
+        public static void divisibleByThreeInRange()
+        {
+            Console.Write("Give the first number: ");
+            int num1 = int.Parse(Console.ReadLine());
+            Console.Write("Give the second number: ");
+            int num2 = int.Parse(Console.ReadLine());
+
+            for (int num3 = num1; num3 < num2; num3++)
+            {
+                if (num3 % 3 == 0)
+                {
+                    Console.WriteLine(num3);
+                }
+            }
+        }
     }
 }
